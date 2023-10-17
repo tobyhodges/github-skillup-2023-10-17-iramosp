@@ -100,7 +100,7 @@ main_ingredients %>%
 
 **Recipe modifications:**
 
-You can use **active** sourdough starter instead of discard, if you so choose. There will be a slight modification to the recipe if that is the case.
+You can use **active** sourdough starter instead of discard, if you so choose. There will be a slight modification to the recipe if that is the case!
 
 In warmer climates, you may want to reduce the amount of buttermilk and/or increase the amount of flour to produce a less sticky, more manageable dough. You may have to experiment a bit.
 
